@@ -1,5 +1,5 @@
 # computer-graphics
-This repository contains computer graphics program .
+This repository contains computer graphics program that i am studying in my B.tech porgram.
 This repository contains a collection of basic and advanced Computer Graphics (CG) programs implemented using C/C++ with graphics libraries (like OpenGL/GLUT or Turbo C++ graphics.h), and Python with PyOpenGL.
 
 Topics Covered
