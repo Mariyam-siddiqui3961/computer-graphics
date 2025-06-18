@@ -2,7 +2,7 @@
 This repository contains computer graphics program that i am studying in my B.tech porgram.
 This repository contains a collection of basic and advanced Computer Graphics (CG) programs implemented using C/C++ with graphics libraries (like OpenGL/GLUT or Turbo C++ graphics.h), and Python with PyOpenGL.
 
-**#Topics Covered**
+# Topics Covered
  Basic 2D Shapes (Line, Circle, Polygon Drawing)
 
  Bresenham’s Line and Circle Algorithms
@@ -21,7 +21,7 @@ This repository contains a collection of basic and advanced Computer Graphics (C
 
  OpenGL Programs (interactive rendering)
 
- **#Technologies Used**
+ # Technologies Used
 C / C++ (graphics.h, GLUT)
 
 Python (PyOpenGL, Pygame)
